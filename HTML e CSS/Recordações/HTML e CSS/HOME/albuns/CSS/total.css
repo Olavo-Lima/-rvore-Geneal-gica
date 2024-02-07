@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+#return {
+    font-family: sans-serif;
+    cursor: pointer;
+=======
+#return {
+    font-family: sans-serif;
+    cursor: pointer;
+}
+
+.btn {
+    background-color: #CCCCCC ;
+    border: none;
+    border-radius: 20px;
+    padding: 0.5em;
+>>>>>>> testes
+}
